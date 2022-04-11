@@ -1,4 +1,4 @@
-# React Nice Resume :page_with_curl:
+# Test React :page_with_curl:
 did it work?
 ### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
