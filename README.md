@@ -1,4 +1,4 @@
-# plz :page_with_curl:
+# PLZ GOD PLZ
 did it work23?
 ### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
