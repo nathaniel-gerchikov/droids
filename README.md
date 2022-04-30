@@ -1,4 +1,4 @@
-# PLZ GOD PLZ
+# PLZ 
 did it work23?
 ### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
