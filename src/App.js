@@ -5,9 +5,9 @@ import "./App.css";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import About from "./Components/About";
-import Resume from "./Components/Resume";
-import Contact from "./Components/Contact";
-import Portfolio from "./Components/Portfolio";
+import Resume from "./Components/Roadmap";
+import Contact from "./Components/Team";
+import Portfolio from "./Components/Whitepaper";
 
 class App extends Component {
   constructor(props) {

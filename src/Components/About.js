@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Background from "./cyperpunk.gif"
+import Background from "./smoke.gif"
 var sectionStyle = {
   width: "100%",
   height: "auto",
@@ -20,7 +20,7 @@ class About extends Component {
           <div className="row">
             
             <div className="card">
-              <h2>Sometime in the future...</h2>
+              
 
               <p>{bio}</p>
             </div>

@@ -618,7 +618,13 @@ input[type="checkbox"] { display: inline; }
     border-radius: 19px;
     padding: 50px;
     box-shadow: 0 5px 15px rgba(0,0,0,1);
+    margin-left:75px;
+    margin-right:75px;
+    
 }
+
+
+
 .column, .columns {
    position: relative;
    padding: 0 20px;

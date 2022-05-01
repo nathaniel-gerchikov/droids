@@ -1,8 +1,7 @@
 import React, { Component } from "react";
-import Background from "./cyperpunk.gif"
+import Background from "./bg.jpg"
 var sectionStyle = {
-  width: "100%",
-  height: "auto",
+  
   backgroundImage: `url(${Background})`
 };
 class Header extends Component {
@@ -12,7 +11,7 @@ class Header extends Component {
   
 
     return (
-      <section style={ sectionStyle }>
+      <section id="bg" style={ sectionStyle }>
       <header id="home">
          
          
@@ -32,27 +31,23 @@ class Header extends Component {
               </a>
             </li>
 
+            
+
             <li>
-              <a className="smoothscroll" href="#about">
-                About
+              <a className="smoothscroll" href="#roadmap">
+                Roadmap
               </a>
             </li>
 
             <li>
-              <a className="smoothscroll" href="#resume">
-                Resume
+            <a className="smoothscroll" href="#whitepaper">
+              Whitepaper
               </a>
             </li>
 
             <li>
-              <a className="smoothscroll" href="#portfolio">
-                Works
-              </a>
-            </li>
-
-            <li>
-              <a className="smoothscroll" href="#contact">
-                Contact
+              <a className="smoothscroll" href="#team">
+                Team
               </a>
             </li>
           </ul>
